@@ -1,16 +1,51 @@
-## Hi there 👋
+# Desenvolvedor Back-End e Desktop [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />](https://www.linkedin.com/in/lucas-isabel-ferreira/)
 
-<!--
-**lucasisabelf/lucasisabelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é **Lucas Isabel Ferreira Da Silva**, e sou apaixonado por tecnologia, com forte atuação no desenvolvimento de aplicações **back-end** e **desktop**. Tenho experiência sólida com **C#**, criando soluções modernas utilizando **.NET MAUI**, **Blazor**, **WPF** e **WinForms**. No back-end, atuo com **Entity Framework**, **REST APIs**, **JWT**, **gRPC**, **GraphQL** e **event streaming**, sempre buscando performance, escalabilidade e boas práticas de arquitetura.
 
-Here are some ideas to get you started:
+### Destaques da Minha Jornada
+<table>
+  <tr>
+    <td>
+<ul>
+  <li>Atuo no desenvolvimento de uma aplicação desktop em <code>WPF</code> integrada a uma <code>API REST ASP.NET MVC</code> de escala global, voltada para o ambiente de manutenção de uma <strong>empresa global de terminais e pinpads de pagamento</strong>. </li>
+<!--   A solução é aplicada em diversas estações de retrabalho ao redor do mundo, otimizando processos operacionais, reduzindo custos e eliminando retrabalhos por meio da padronização de fluxos técnicos. -->
+    <li>Desenvolvi soluções FullStack com <code>GO</code> e <code>TypeScript</code>, incluindo uma aplicação para envio setorizado de produtos a balanças comerciais <strong>SYSTEL GLOBAL</strong>, utilizando processamento paralelo para gerenciar múltiplos equipamentos simultaneamente e garantir agilidade nas entregas, evitando devoluções e facilitando as vendas.</li>
+  </ul>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-isabel&layout=donut&show_icons=true&theme=transparent" alt="Top Langs" style="width: 200vw">
+    </td>
+    
+  </tr>
+  <tr>
+    <td colspan=2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Js" alt="React Js" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="60" height="60"/>
+</div>
+
+   
+  </tr>
+</table>
+
+
+
+### Habilidades Secundárias
+
+- Possuo também experiência em `Java`, `PHP`, `C++` e `Firebird`
+- Sustentação de software e testes de integração
+- Criação de **middlewares**, **cli's** e **ambientes web** integrados
+- Suporte N3 remoto e presencial a clientes, revendedores e autorizadas
+- Criação e aplicação de treinamentos para autorizadas, redes e clientes finais
+- Manutenção de equipamentos e soldagem eletrônica
+
+## Projetos em Destaque
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=GBS-MAUI-BLAZOR)](https://github.com/Lucas-Isabel/GBS-MAUI-BLAZOR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=Titan)](https://github.com/Lucas-Isabel/Titan)
