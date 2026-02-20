@@ -47,5 +47,7 @@ Olá! Meu nome é **Lucas Isabel Ferreira Da Silva**, e sou apaixonado por tecno
 - Manutenção de equipamentos e soldagem eletrônica
 
 ## Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=GBS-MAUI-BLAZOR)](https://github.com/Lucas-Isabel/GBS-MAUI-BLAZOR)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas-isabel&repo=Titan)](https://github.com/Lucas-Isabel/Titan)
+
+- [GBS-MAUI-BLAZOR](https://github.com/Lucas-Isabel/GBS-MAUI-BLAZOR)
+- [Titan](https://github.com/Lucas-Isabel/Titan)
+
