@@ -15,9 +15,6 @@ Tenho experiência sólida com **C#**, criando soluções com **.NET MAUI**, **B
   <li>Implementei <strong>Titan</strong>: uma linguagem de programação com tipagem estática, baseada em Lua, transpiler escrito em Go — porque entender um problema fundo significa às vezes construir a ferramenta que o resolve.</li>
 </ul>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasisabelf&layout=donut&show_icons=true&theme=transparent" alt="Top Langs" style="width: 200vw">
-    </td>
   </tr>
   <tr>
     <td colspan=2>
